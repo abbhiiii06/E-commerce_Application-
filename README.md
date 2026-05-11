@@ -70,3 +70,4 @@ The e-commerce website backend is the backbone of the online store, responsible 
 - Spring Boot
 - MySQL
 - Security with JWT (JSON Web Tokens)
+- python
